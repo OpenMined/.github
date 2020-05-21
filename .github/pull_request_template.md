@@ -6,7 +6,7 @@ Please include a summary of the change and which issue is fixed. If this closes 
 ## Affected Dependencies
 List any dependencies that are required for this change.
 
-## Type of change
+## Type of Change
 Please mark options that are relevant.
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
@@ -15,12 +15,12 @@ Please mark options that are relevant.
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
-## How Has This Been Tested?
+## How has this been tested?
 - Describe the tests that you ran to verify your changes.
 - Provide instructions so we can reproduce.
 - List any relevant details for your test configuration.
 
-## Checklist:
+## Checklist
 - [ ] I did follow the [Contribution Guidelines](https://github.com/OpenMined/.github/blob/master/CONTRIBUTING.md)
 - [ ] I did follow the [Code of Conduct](https://github.com/OpenMined/.github/blob/master/CODE_OF_CONDUCT.md)
 - [ ] I have commented my code following the [OpenMined Styleguide](https://github.com/OpenMined/.github/blob/master/STYLEGUIDE.md)
