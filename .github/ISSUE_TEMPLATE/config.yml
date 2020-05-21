@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: OpenMined Slack Channel
+  - name: General Questions about OpenMined
     url: https://slack.openmined.org
-    about: A great place to ask general questions about OpenMined and it's projects
+    about: Our Slack community is a great place to ask general questions about OpenMined and it's projects
