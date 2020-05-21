@@ -1,5 +1,5 @@
 ---
-name: Bug
+name: Bug :bug:
 about: Some functionality not working in the codebase as intended
 title: ''
 labels: ''
