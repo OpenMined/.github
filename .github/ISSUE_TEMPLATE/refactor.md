@@ -2,8 +2,9 @@
 name: Refactor
 about: A complete overhaul of a file, feature, or codebase
 title: ''
-labels: ''
+labels: 'Type: Refactor :hammer:'
 assignees: ''
+
 ---
 
 ## What?

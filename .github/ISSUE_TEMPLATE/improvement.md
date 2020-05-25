@@ -1,9 +1,11 @@
 ---
 name: Improvement
-about: Performance improvement not introducing a new feature or requiring a major refactor
+about: Performance improvement not introducing a new feature or requiring a major
+  refactor
 title: ''
-labels: ''
+labels: 'Type: Improvement :chart_with_upwards_trend:'
 assignees: ''
+
 ---
 
 ## Description

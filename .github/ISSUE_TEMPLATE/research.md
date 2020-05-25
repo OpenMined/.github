@@ -2,8 +2,9 @@
 name: Research
 about: When further investigation into a subject is required
 title: ''
-labels: ''
+labels: 'Type: Research :microscope:'
 assignees: ''
+
 ---
 
 ## What?

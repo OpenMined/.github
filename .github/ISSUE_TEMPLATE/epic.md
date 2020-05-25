@@ -1,9 +1,11 @@
 ---
 name: Epic
-about: Describes a large amount of functionality that will likely be broken down into smaller issues
+about: Describes a large amount of functionality that will likely be broken down into
+  smaller issues
 title: ''
-labels: ''
+labels: 'Type: Epic :call_me_hand:'
 assignees: ''
+
 ---
 
 ## Description

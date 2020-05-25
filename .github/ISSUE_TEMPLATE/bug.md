@@ -2,8 +2,9 @@
 name: Bug
 about: Some functionality not working in the codebase as intended
 title: ''
-labels: ''
+labels: 'Type: Bug :bug:'
 assignees: ''
+
 ---
 
 ## Description

@@ -2,8 +2,9 @@
 name: Documentation
 about: Improvements or additions in documentation for some file, feature, or codebase
 title: ''
-labels: ''
+labels: 'Type: Documentation :books:'
 assignees: ''
+
 ---
 
 ## Where?

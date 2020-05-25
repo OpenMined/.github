@@ -2,8 +2,9 @@
 name: New Feature
 about: Introduction of a completely new addition to the codebase
 title: ''
-labels: ''
+labels: 'Type: New Feature :heavy_plus_sign:'
 assignees: ''
+
 ---
 
 ## Feature Description
