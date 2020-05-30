@@ -12,5 +12,5 @@ List any dependencies that are required for this change.
 ## Checklist
 - [ ] I have followed the [Contribution Guidelines](https://github.com/OpenMined/.github/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/OpenMined/.github/blob/master/CODE_OF_CONDUCT.md)
 - [ ] I have commented my code following the [OpenMined Styleguide](https://github.com/OpenMined/.github/blob/master/STYLEGUIDE.md)
-- [ ] My changes are covered by tests
 - [ ] I have labeled this PR with the relevant [Type labels](https://github.com/OpenMined/.github/labels?q=Type%3A)
+- [ ] My changes are covered by tests
