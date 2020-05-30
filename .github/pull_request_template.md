@@ -1,5 +1,3 @@
-# Pull Request
-
 ## Description
 Please include a summary of the change and which issue is fixed. If this closes one or more open issues, [please tag them as described here](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword).
 
