@@ -22,7 +22,6 @@ List any dependencies that are required for this change.
 - List any relevant details for your test configuration.
 
 ## Checklist
-- [ ] I did follow the [Contribution Guidelines](https://github.com/OpenMined/.github/blob/master/CONTRIBUTING.md)
-- [ ] I did follow the [Code of Conduct](https://github.com/OpenMined/.github/blob/master/CODE_OF_CONDUCT.md)
+- [ ] I have followed the [Contribution Guidelines](https://github.com/OpenMined/.github/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/OpenMined/.github/blob/master/CODE_OF_CONDUCT.md)
 - [ ] I have commented my code following the [OpenMined Styleguide](https://github.com/OpenMined/.github/blob/master/STYLEGUIDE.md)
-- [ ] I have added tests for my changes
+- [ ] My changes are covered by tests
