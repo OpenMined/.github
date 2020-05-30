@@ -1,18 +1,6 @@
 ## Description
 Please include a summary of the change, the motivation, and any additionl context that will help others understand your PR. If it closes one or more open issues, [please tag them as described here](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword).
 
-## Type of Change
-Please apply relevant labels to your PR. The available labels for PRs are:
-
-- Type: Bug
-- Type: New Feature
-- Type: Improvement
-- Type: Refactor
-- Type: Testing
-- Type: Code Quality
-- Type: Documentation
-- Type: Research
-
 ## Affected Dependencies
 List any dependencies that are required for this change.
 
@@ -25,3 +13,4 @@ List any dependencies that are required for this change.
 - [ ] I have followed the [Contribution Guidelines](https://github.com/OpenMined/.github/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/OpenMined/.github/blob/master/CODE_OF_CONDUCT.md)
 - [ ] I have commented my code following the [OpenMined Styleguide](https://github.com/OpenMined/.github/blob/master/STYLEGUIDE.md)
 - [ ] My changes are covered by tests
+- [ ] I have labeled this PR with the relevant [Type labels](https://github.com/OpenMined/.github/labels?q=Type%3A)
