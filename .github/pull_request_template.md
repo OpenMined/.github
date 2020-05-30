@@ -1,17 +1,20 @@
 ## Description
 Please include a summary of the change and which issue is fixed. If this closes one or more open issues, [please tag them as described here](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword).
 
+## Type of Change
+Please apply relevant labels to your PR. The available labels for PRs are:
+
+- Type: Bug
+- Type: New Feature
+- Type: Improvement
+- Type: Refactor
+- Type: Testing
+- Type: Code Quality
+- Type: Documentation
+- Type: Research
+
 ## Affected Dependencies
 List any dependencies that are required for this change.
-
-## Type of Change
-Please mark options that are relevant.
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] Documentation (non-breaking change which adds documentation)
-- [ ] Improvement (non-breaking change that improves the performance or reliability of existing functionality)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
 ## How has this been tested?
 - Describe the tests that you ran to verify your changes.
