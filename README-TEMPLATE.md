@@ -36,6 +36,10 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 
 It might be good here to produce a few really simple examples of how this library can be used if indeed the library is multi-purpose. Be sure to use the Markdown headers to establish a correct heirarchy to the document.
 
+## Support
+
+For support in using this library, please join the **#lib_pysyft** Slack channel. If you'd like to follow along with any code changes to the library, please join the **#code_pysyft** Slack channel. [Click here to join our Slack community!](https://slack.openmined.org)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
