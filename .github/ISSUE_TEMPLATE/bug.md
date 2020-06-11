@@ -27,6 +27,8 @@ If applicable, add screenshots to help explain your problem.
  - OS Version: [e.g. 22]
  - Language Version: [e.g. Python 3.7, Node 10.18.1]
  - Package Manager Version: [e.g. Conda 4.6.1, NPM 6.14.1]
+ - Browser (if applicable): [e.g. Google Chrome]
+ - Browser Version (if applicable): [e.g. 81.0.4044.138]
 
 ## Additional Context
 Add any other context about the problem here.
